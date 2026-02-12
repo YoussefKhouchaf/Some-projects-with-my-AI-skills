@@ -1,0 +1,13 @@
+1- Charger les vidéos étiquetées et extraire les angles de tangage et de lacet pour chaque image.
+
+2- Charger les vidéos non étiquetées et extraire les images.
+
+3- Prétraiter les images en les redimensionnant et en les normalisant.
+
+4- Construire un modèle de réseau neuronal qui prend une image et fournit les angles de tangage et de lacet estimés (CNN).
+
+5- L'entraînement du modèle à l'aide des données vidéo étiquetées et l'évaluation de ses performances (utilisation des mesures telles que l'erreur quadratique moyenne (MSE) ou l'erreur absolue moyenne (MAE) pour évaluer les performances du modèle)
+
+6- L'utilisation du modèle entraîné pour prédire les angles de tangage et de lacet pour chaque image dans les vidéos non étiquetées.
+
+7- Sauvegarder les angles de tangage et de lacet prédits dans des tableaux 2D et les écrire dans les fichiers 5.txt à 9.txt.
